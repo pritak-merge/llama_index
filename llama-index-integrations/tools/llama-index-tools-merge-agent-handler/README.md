@@ -105,10 +105,7 @@ make test
 
 - Merge Agent Handler docs: <https://docs.ah.merge.dev/>
 - Merge dashboard: <https://ah.merge.dev/>
-- n8n implementation: `/Users/pritak/Documents/n8n-nodes-merge`
-- Langflow implementation: `/Users/pritak/Documents/langflow-merge-agent-handler`
-- Agno implementation: `/Users/pritak/Documents/agno-merge-agent-handler`
-- Letta implementation: `/Users/pritak/Documents/letta-merge-agent-handler`
+- Companion integrations for n8n, Langflow, Agno, and Letta are also available from the Merge Agent Handler project.
 
 ## License
 
